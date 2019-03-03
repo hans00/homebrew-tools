@@ -23,4 +23,5 @@ cask 'flutter' do
 
         'source <(flutter bash-completion)'
     EOS
+  end
 end
