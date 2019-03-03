@@ -1,2 +1,16 @@
 # homebrew-tools
-Some tools install over Homebrew
+A Homebrew Tap to install some tools
+
+---
+
+Formulas
+===
+
+- pydictor
+
+
+Casks
+===
+
+- flutter
+
