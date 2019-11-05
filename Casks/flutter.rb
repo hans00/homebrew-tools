@@ -4,7 +4,7 @@ cask 'flutter' do
   homepage "https://www.flutter.dev"
 
   version "1.9.1+hotfix.6"
-  sha256 "1bd5d165c79efebfba39e4602d6e07e74b40798630eb7173caedf0f664c53035"
+  sha256 "8d0b3e217e45fbde64e117c5932ec5bd18ced0e8e8fba80a0fec95e38854bb6a"
   url "https://storage.googleapis.com/flutter_infra/releases/stable/macos/flutter_macos_v#{version}-stable.zip"
 
   depends_on cask: "android-sdk"
